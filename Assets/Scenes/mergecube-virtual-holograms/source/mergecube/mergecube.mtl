@@ -1,0 +1,55 @@
+# File produced by AccuTrans 3D
+
+newmtl Obj_000001
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 1.0 1.0 1.0
+  map_Kd merge-cube1.jpg
+
+newmtl Obj_000002
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 1.0 1.0 1.0
+  map_Kd merge-cube4.jpg
+
+newmtl Obj_000003
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 1.0 1.0 1.0
+  map_Kd merge-cube3.jpg
+
+newmtl Obj_000004
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 1.0 1.0 1.0
+  map_Kd merge-cube2.jpg
+
+newmtl Obj_000005
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 1.0 1.0 1.0
+  map_Kd merge-cube6.jpg
+
+newmtl Obj_000006
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 1.0 1.0 1.0
+  map_Kd merge-cube5.jpg
